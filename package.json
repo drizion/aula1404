@@ -1,0 +1,14 @@
+{
+  "name": "aula1404",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "repository": "https://github.com/drizion/aula1404.git",
+  "author": "Futurity <vocalmusicstudio20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
